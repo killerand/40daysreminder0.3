@@ -1,1 +1,1 @@
-# 40daysreminder0.3
+https://muslim40daysreminder.vercel.app/
